@@ -1,2 +1,1 @@
-# 100daysofcode
-100 days of code for learning webdevelopment.
+I've joined the #100DaysOfCode Challenge
