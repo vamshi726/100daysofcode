@@ -45,9 +45,6 @@ p {
     background-position-x: 500%;
   }
 }
-
-/*  Checkout my other pens on  https://codepen.io/grohit/  */
-
     </style>
   <p>I've joined the #100DaysOfCode Challenge on Web development.</p>
 
